@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://ishear.netlify.app/</loc>
+    <lastmod>2026-02-17</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Downloads section -->
+  <url>
+    <loc>https://ishear.netlify.app/#downloads</loc>
+    <lastmod>2026-02-17</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Screenshots section -->
+  <url>
+    <loc>https://ishear.netlify.app/#screenshots</loc>
+    <lastmod>2026-02-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Features section -->
+  <url>
+    <loc>https://ishear.netlify.app/#features</loc>
+    <lastmod>2026-02-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
